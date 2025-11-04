@@ -1,3 +1,4 @@
-MiniA.exe = "7cf9707ec89e318d9c085c92b1e848db"
-skill.ssf = "b8e3920f5be4aa17dd6633c3f5611eea"
-item.isf = "29f4c951289e07200c443d74d7df8d8e"
+mode=1
+MiniA.exe = "7cf9707ec89e318d9c085c92b1e848db","1"
+skill.ssf = "b8e3920f5be4aa17dd6633c3f5611eea","1"
+item.isf = "29f4c951289e07200c443d74d7df8d8e","2"
