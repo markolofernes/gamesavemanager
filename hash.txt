@@ -1,5 +1,5 @@
 mode=3
 
-MiniA.exe = "bda788300038895d935a1fa191e84021","1"
+MiniA.exe = "b1aee3808e557b23cec387898d7bc34f","1"
 skill.ssf = "b8e3920f5be4aa17dd6633c3f5611eea","2"
 item.isf = "29f4c951289e07200c443d74d7df8d8e","2"
